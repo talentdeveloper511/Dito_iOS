@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Dito</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Delivery Station</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb1269322743181029</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Net.DeliveryStation.DeliveryStation</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.290767044562-e1a1a4ulvi00ttg63pbrq9j7tqt1u9i7</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>29</string>
+	<key>FacebookAppID</key>
+	<string>1269322743181029</string>
+	<key>FacebookDisplayName</key>
+	<string>iPaths</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoibWFya29kcmVoZXIwNTExIiwiYSI6ImNqbWFpZ25sZDA5eTQzdnE0Z3R6Mndva2QifQ.SFbGa5mEft9wgKat9Tsy8g</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>This app need to access your camera for profile photo.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need your location so that we can allocate your order to the nearest delivery boy available</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location so that we can allocate your order to the nearest delivery boy available</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>NeedLibrary access for uploading Images</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>NeedLibrary access for uploading Images</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Rimouski_Bold.ttf</string>
+		<string>Rimouski-Light.ttf</string>
+		<string>Rimouski-SemiBold.ttf</string>
+		<string>Rimouski-UltraLight.ttf</string>
+		<string>Rimouski-Regular.ttf</string>
+		<string>Rimouski-SuperBold.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>Main</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<string></string>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>aps-environment</key>
+	<string>production</string>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  iPaths
+
+  Created by ApporioMac8 on 09/08/17.
+  Copyright © 2017 Marko Dreher. All rights reserved.
+*/
+"Delivery Station!!" = "Delivery Station!!";
+"Would you like to confirm your order" = "Would you like to confirm your order";
+"Confirm Order" = "Confirm Order";
+"No" = "No";
+"What do you want?" = "What do you want?";
+"Alert" = "Alert";
+"OK" = "OK";
+"Choose Option" = "Choose Option";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Coming Soon...." = "Coming Soon....";
+"Please Fill Deliver  address" = "Please Fill Deliver  address";
+"Please Fill pickup place" = "Please Fill pickup place";
+"Complaints" = "Complaints";
+"Suggestions" = "Suggestions";
+"Enquiries" = "Enquiries";
+"Other" = "Other";
+"Please Fill Old Pasword Field" = "Please Fill Old Pasword Field";
+"Please Fill New Pasword Field" = "Please Fill New Pasword Field";
+"On the way to delivered" = "On the way to delivered";
+"On the way to pick up" = "On the way to pick up";
+"Waiting for butterfly" = "Waiting for butterfly";
+"Are You Sure" = "Are You Sure";
+"Select Your Subject" = "Select Your Subject";
+ "First " =  "First ";
+"After " = "After ";
+" BASE FAIR" = " Km BASE FAIR";
+" per Km " = "per Km";
+" km" = " km";
+"SAR  " = "SAR  ";
+"Order Total" = "Order Total";
+"Sar " = "Sar ";
+"Cancel" =  "Cancel";
+"Order Description" = "Order Description";
+"Waiting For Butterfly" = "Waiting For Butterfly";
+"Track order" = "Track order";
+"Order ID:- " = "Order ID:- ";
+"Order Details" = "Order Details";
+"Order Something" = "Order Something";
+"Send Something" = "Send Something";
+"On the way to pick up" = "On the way to pick up";
+"On the way to delivered" = "On the way to delivered";
+"Yes" = "Yes";
+"Are You Sure" = "Are You Sure";
+"No Order!!" = "No Order!!";
+"You have select wrong location" = "You have select wrong location";
+"Email is not in correct format*" = "Email is not in correct format*";
+"Please Fill Email Field" = "Please Fill Email Field";
+"Please Fill OTP Field" = "Please Fill OTP Field";
+"OTP does not match"  = "OTP does not match";
